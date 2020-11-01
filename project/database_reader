@@ -1,0 +1,7 @@
+import shelve
+
+db = shelve.open('zym_database')
+
+for x in db:
+    print(db[x])
+    print()
