@@ -1,1 +1,1 @@
-# Zym-Management-System
+I have been working on this since one week, but still its incomplete. I had got a serious bug which took three days to figure it out, but still project is not complete. I did my best for now. I searched on stack overflow too for solution but did not get any solution. so, pardon me and do experiment with wrong inputs to see how my code handles invalid input by user. have fun :)
